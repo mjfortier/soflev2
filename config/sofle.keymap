@@ -65,7 +65,7 @@
 &trans  &trans  &trans  &trans    &trans    &trans                       &trans  &trans     &trans   &trans     &trans  &trans
 &trans  &trans  &trans  &kp LBRC  &kp RBRC  &trans                       &trans  &kp PG_UP  &kp UP   &kp PG_DN  &trans  &trans
 &trans  &trans  &trans  &kp LPAR  &kp RPAR  &trans                       &trans  &kp LEFT   &kp DOWN &kp RIGHT  &trans  &trans
-&trans  &trans  &trans  &kp LBRK  &kp RBRK  &trans      &trans   &trans  &trans  &trans     &trans   &trans     &trans  &trans
+&trans  &trans  &trans  &kp LBKT  &kp RBKT  &trans      &trans   &trans  &trans  &trans     &trans   &trans     &trans  &trans
                 &trans  &trans    &trans    &mo SYSTEM  &trans   &trans  &trans  &trans     &trans   &trans
             >;
 
