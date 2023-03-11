@@ -23,6 +23,7 @@
             tapping-term-ms = <200>;    // <---[[moderate duration]]
             quick-tap-ms = <0>;
             flavor = "balanced";
+	    retro-tap;
             bindings = <&kp>, <&kp>;
         };
     };
